@@ -18,3 +18,7 @@ Aqui no canal ele compara o linux como se fosse um MOTOR DE CARRO, onde todos os
 ---
 
 27/12/2025
+
+---
+
+28/12/2025
