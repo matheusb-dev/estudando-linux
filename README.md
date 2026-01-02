@@ -22,3 +22,10 @@ Aqui no canal ele compara o linux como se fosse um MOTOR DE CARRO, onde todos os
 ---
 
 28/12/2025
+
+--‐
+
+02/01/2026 -> Feliz Ano Novo
+
+--‐
+
