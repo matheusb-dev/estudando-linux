@@ -42,3 +42,5 @@ Outra coisas, como havia dito anteriormente estou tentando aumentar expirência 
 
 Assim, são 3 sistema, WINDOWS, UBUNTUOS E MACOS. Vamos ver como vai sair. Partiu o desenvolvimento.. :D </p>
 
+wsl
+
